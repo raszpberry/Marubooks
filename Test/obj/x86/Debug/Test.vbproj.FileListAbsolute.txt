@@ -1,0 +1,12 @@
+G:\Proj\Test\Test\bin\Debug\Test.exe
+G:\Proj\Test\Test\bin\Debug\Test.pdb
+G:\Proj\Test\Test\bin\Debug\Test.xml
+G:\Proj\Test\Test\obj\x86\Debug\Test.Main.resources
+G:\Proj\Test\Test\obj\x86\Debug\Test.Resources.resources
+G:\Proj\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+G:\Proj\Test\Test\obj\x86\Debug\Test.exe
+G:\Proj\Test\Test\obj\x86\Debug\Test.xml
+G:\Proj\Test\Test\obj\x86\Debug\Test.pdb
+G:\Proj\Test\Test\bin\Debug\Test.exe.config
+G:\Proj\Test\Test\obj\x86\Debug\Test.Login.resources
+G:\Proj\Test\Test\obj\x86\Debug\Test.Membership_Form.resources

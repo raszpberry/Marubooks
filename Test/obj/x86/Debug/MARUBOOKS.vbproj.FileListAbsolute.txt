@@ -1,0 +1,53 @@
+G:\Proj\Test\Test\bin\Debug\Test.exe.config
+G:\Proj\Test\Test\obj\x86\Debug\Test.exe
+G:\Proj\Test\Test\obj\x86\Debug\Test.xml
+G:\Proj\Test\Test\obj\x86\Debug\Test.pdb
+G:\Proj\Marubooks\Test\bin\Debug\Test.exe.config
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.exe
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.xml
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.pdb
+H:\Proj\Marubooks\Test\bin\Debug\Test.exe.config
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.exe
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.xml
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.pdb
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.Main.resources
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.Membership_Form.resources
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.Resources.resources
+H:\Proj\Marubooks\Test\obj\x86\Debug\MARUBOOKS.vbproj.GenerateResource.Cache
+H:\Proj\Marubooks\Test\bin\Debug\Test.exe
+H:\Proj\Marubooks\Test\bin\Debug\Test.pdb
+H:\Proj\Marubooks\Test\bin\Debug\Test.xml
+G:\Proj\Marubooks\Test\bin\Debug\Test.exe
+G:\Proj\Marubooks\Test\bin\Debug\Test.pdb
+G:\Proj\Marubooks\Test\bin\Debug\Test.xml
+G:\Proj\Marubooks\Test\obj\x86\Debug\MARUBOOKS.vbprojResolveAssemblyReference.cache
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.Main.resources
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.Membership_Form.resources
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.Resources.resources
+G:\Proj\Marubooks\Test\obj\x86\Debug\MARUBOOKS.vbproj.GenerateResource.Cache
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.Login01.resources
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.Issue_Book.resources
+H:\Proj\Marubooks\Test\obj\x86\Debug\MARUBOOKS.vbprojResolveAssemblyReference.cache
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.Issue_Book.resources
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.Login01.resources
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.AdminPage.resources
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.AdminLogin.resources
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.AdminPage.resources
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.AdminLogin.resources
+H:\Proj\Marubooks\Test\obj\x86\Debug\Test.BookStats.resources
+G:\Proj\Marubooks\Test\obj\x86\Debug\Test.BookStats.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\MARUBOOKS.vbproj.AssemblyReference.cache
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\MARUBOOKS.vbproj.SuggestedBindingRedirects.cache
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.AdminPage.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.BookStats.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.Issue_Book.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.AdminLogin.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.Login01.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.Main.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.Membership_Form.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.Resources.resources
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\MARUBOOKS.vbproj.GenerateResource.cache
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\MARUBOOKS.vbproj.CoreCompileInputs.cache
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.exe
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.xml
+F:\New folder\THAN\Proj\Marubooks\Test\obj\x86\Debug\Test.pdb
