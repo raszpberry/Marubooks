@@ -1,7 +1,7 @@
 # Marubooks
 
-### A Book Library Database System
-This is a college project during my sophomore year 
+A Book Library Database System
+- This is a college project during my sophomore year 
 
 ## Screenshots
 ![](/screenshot/main-form.png)
